@@ -65,3 +65,12 @@ http://localhost:5000/api
 - `Backend/routes/expenseRoutes.js` - API routes
 - `Backend/controllers/expenseController.js` - CRUD logic
 - `Backend/models/Expense.js` - Mongoose schema
+
+- ## Project Dashboard
+- <img width="1237" height="682" alt="image" src="https://github.com/user-attachments/assets/4dc50fe4-fd26-4fe6-a23e-99a3f6dfe3e8" />
+<img width="1257" height="694" alt="image" src="https://github.com/user-attachments/assets/895aff68-2936-4bc8-ae56-8193849641c4" />
+
+
+
+
+
